@@ -1,0 +1,15 @@
+
+cryptocmd==0.6.1
+cryptography==40.0.1
+investpy==1.0.8
+numpy==1.24.2
+opendatasets==0.1.22
+pandas==1.5.3
+pandas-ta==0.3.14b0
+plotly==5.14.1
+Quandl==3.7.0
+scikit-learn @ file:///C:/b/abs_e01rh8f1vi/croot/scikit-learn_1675454931501/work
+scipy==1.9.3
+sklearn==0.0.post1
+yfinance==0.2.17
+zipp==3.14.0
