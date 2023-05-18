@@ -56,13 +56,7 @@ mkl-random @ file:///C:/ci/mkl_random_1626186184308/work
 mkl-service==2.4.0
 more-itertools==9.1.0
 multitasking==0.0.11
-nbclassic @ file:///C:/b/abs_d0_ze5q0j2/croot/nbclassic_1676902914817/work
-nbclient @ file:///C:/ci/nbclient_1650290387259/work
-nbconvert @ file:///C:/b/abs_4av3q4okro/croot/nbconvert_1668450658054/work
-nbformat @ file:///C:/b/abs_85_3g7dkt4/croot/nbformat_1670352343720/work
-nest-asyncio @ file:///C:/b/abs_3a_4jsjlqu/croot/nest-asyncio_1672387322800/work
-notebook @ file:///C:/b/abs_ca13hqvuzw/croot/notebook_1668179888546/work
-notebook_shim @ file:///C:/b/abs_ebfczttg6x/croot/notebook-shim_1668160590914/work
+
 numpy==1.24.2
 opendatasets==0.1.22
 packaging==23.0
@@ -102,21 +96,18 @@ Send2Trash @ file:///tmp/build/80754af9/send2trash_1632406701022/work
 six @ file:///tmp/build/80754af9/six_1644875935023/work
 sklearn==0.0.post1
 smmap==5.0.0
-sniffio @ file:///C:/ci/sniffio_1614030527509/work
-soupsieve @ file:///C:/b/abs_fasraqxhlv/croot/soupsieve_1666296394662/work
+
 stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
 streamlit==1.18.1
 tablib==3.4.0
 tenacity==8.2.2
 terminado @ file:///C:/b/abs_25nakickad/croot/terminado_1671751845491/work
 text-unidecode==1.3
-threadpoolctl @ file:///Users/ktietz/demo/mc3/conda-bld/threadpoolctl_1629802263681/work
-tinycss2 @ file:///C:/b/abs_52w5vfuaax/croot/tinycss2_1668168823131/work
-toml==0.10.2
+
 toolz==0.12.0
-tornado @ file:///C:/ci/tornado_1662458743919/work
+
 tqdm==4.65.0
-traitlets @ file:///C:/b/abs_e5m_xjjl94/croot/traitlets_1671143896266/work
+
 typing_extensions==4.5.0
 tzdata==2022.7
 tzlocal==4.2
